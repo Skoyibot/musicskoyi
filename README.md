@@ -15,25 +15,25 @@
 
 ### Commands 🛠
 #### For all in group
-- `/play` - reply to youtube url or song file to play song
-- `/vplay` - reply to youtube url or song file to play song
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/lyrics <query>` - search lyrics from web
+- /play - reply to youtube url or song file to play song
+- /vplay - reply to youtube url or song file to play song
+- /song <song name> - download songs you want quickly
+- /search <query> - search videos on youtube with details
+- /lyrics <query> - search lyrics from web
 #### Admins only
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-- `/vstop` - stop video stream
-- `/vpause` - pause video stream
-- `/vresume` - resume video stream
-- `/vskip` - skip video stream
+- /pause - pause song play
+- /resume - resume song play
+- /skip - play next song
+- /end - stop music play
+- /vstop - stop video stream
+- /vpause - pause video stream
+- /vresume - resume video stream
+- /vskip - skip video stream
 
 ### Commands for Sudo Users ⚔️
-- `/userbotleaveall` - remove assistant from all chats
-- `/broadcast <reply to message>` - globally brodcast replied message to all chats
-- `/pmpermit [on/off]` - enable/disable pmpermit message
+- /userbotleaveall - remove assistant from all chats
+- /broadcast <reply to message> - globally brodcast replied message to all chats
+- /pmpermit [on/off] - enable/disable pmpermit message
 
 
 ## String Session :
@@ -66,7 +66,7 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 - PyTgCalls
 
 #### Contributors
-- [Kyy](https://github.com/muhammadrizky16): Nasty Owner
+- [skoyi](https://github.com/Skkyimusic/Skkyimusic/tree/Skkyimusic-patch-2): Nasty Owner
 - [KenKan](https://github.com/kenkansaja): Contributor
 - [xD_ShaShank](https://github.com/theshashankk): Yukki Dev
 - [VegetaxD](http://github.com/VegetaxD): Yukki Owner 
@@ -89,7 +89,8 @@ YukkiMusicPlayer is a modified version of [Callsmusic](https://github.com/callsm
 - [Dan (for pyrogram)](https://github.com/delivrance)
 - [VegetaxD (For Yukki Repo)](http://github.com/VegetaxD)
 
-#### Open Source codes used in this project 
+#### Open Source codes used in this project
+
 - https://github.com/callsmusic/callsmusic : Source code used here as base
 - https://github.com/DevsExpo/FridayUserbot/blob/master/main_startup/helper_func/basic_helpers.py : Functioms from line 275 to 351
 - https://github.com/TheHamkerCat/WilliamButcherBot/blob/dev/wbb/modules/music.py : From lines 170 to 178
